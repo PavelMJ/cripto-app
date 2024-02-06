@@ -2,7 +2,7 @@ import { Layout, Select, Space, Button, Modal, Drawer } from "antd";
 import { useCrypto } from "../../context/crypto-context";
 import { useEffect, useState } from "react";
 import CoinModalInfo from "../CoinModalInfo";
-import CoinForm from "../coinForm";
+import CoinForm from "../CoinForm";
 
 const headerStyle = {
   display: "flex",
